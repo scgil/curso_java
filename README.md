@@ -24,11 +24,11 @@ getVelocidad():  Devuelve la velocidad en metros por segundo.
 Uso de la clase Vehiculo
 Para utilizar la clase Vehiculo, primero debe instanciar un objeto pasando los argumentos adecuados al constructor. 
 1.5. Contribuir
-1.	Fork it!
-2.	Crea tu feature branch: git checkout -b my-new-feature
-3.	Haz Commit de tus cambios: git commit -am 'Add some feature'
-4.	Push al branch: git push origin my-new-feature
-5.	Submit un pull request
+  1.	Fork it!
+  2.	Crea tu feature branch: git checkout -b my-new-feature
+  3.	Haz Commit de tus cambios: git commit -am 'Add some feature'
+  4.	Push al branch: git push origin my-new-feature
+  5.	Submit un pull request
 1.6. Historia
 •	Version 1.1 (2024-12-10) - lanzamiento inicial
 1.7. Créditos y atribuciones
