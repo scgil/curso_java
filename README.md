@@ -1,4 +1,4 @@
-# curso_java
+# Curso Java: Prueba
 1. Clase Vehiculo
 Vehiculo
 Define la clase Vehiculo.
