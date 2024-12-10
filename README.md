@@ -11,17 +11,29 @@ La clase Vehiculo representa un Vehiculo y es una clase abstracta de la que here
 
 1.3. Funcionalidades
 La clase Vehiculo tiene las siguientes funcionalidades:
+
 Constructor: Crea una instancia de Vehiculo con una matrícula, marca, modelo, y color.
+
 getMatricula (): Devuelve la matrícula de Vehiculo.
+
 getMarca(): Devuelve la matrícula de Vehiculo.
+
 getModelo(): Devuelve el modelo de Vehiculo.
+
 getColor(): Devuelve el color de Vehiculo.
+
 setColor(): Establece el color de Vehiculo.
+
 getEspacioRecorrido(): Devuelve el espacio recorrido por Vehiculo.
+
 incrementarEspacioRecorrido(in metros): Incrementa la cantidad de metros indicada.
+
 iniciarViaje(): Establece la hora de inicio y la hora actual de viaje al mismo valor.
+
 actualizarTiempoActual(): Actualiza la hora actual.
+
 getTiempoDeViaje(): Devuelve la duración del viaje entre la hora actual y la hora de inicio. 
+
 getVelocidad():  Devuelve la velocidad en metros por segundo.
 
 1.4. Uso
@@ -58,10 +70,15 @@ La clase Coche representa un Coche y hereda de la clase Vehiculo. Implementa la 
 2.3. Funcionalidades
 
 La clase Coche tiene las siguientes funcionalidades:
+
 Constructor: Crea una instancia de Coche con una matrícula, marca, modelo, y color.
+
 getNumeroRuedas (): Devuelve las ruedas que tiene el vehículo.
+
 arrancar(): Inicia el trayecto del coche en una hora determinada. Muestra información de la acción.
+
 avanzar(int metros): Desplaza el coche en una cantidad de metros indicada, actualiza el espacio recorrido y la hora actual. Muestra información de la acción.
+
 parar():  Detiene el coche. Actualiza la hora de parada. Muestra información de la acción.
 
 2.4. Uso
