@@ -20,9 +20,11 @@ iniciarViaje(): Establece la hora de inicio y la hora actual de viaje al mismo v
 actualizarTiempoActual(): Actualiza la hora actual.
 getTiempoDeViaje(): Devuelve la duración del viaje entre la hora actual y la hora de inicio. 
 getVelocidad():  Devuelve la velocidad en metros por segundo.
+
 1.4. Uso
 Uso de la clase Vehiculo
 Para utilizar la clase Vehiculo, primero debe instanciar un objeto pasando los argumentos adecuados al constructor. 
+
 1.5. Contribuir
   1.	Fork it!
   2.	Crea tu feature branch: git checkout -b my-new-feature
@@ -51,17 +53,18 @@ getNumeroRuedas (): Devuelve las ruedas que tiene el vehículo.
 arrancar(): Inicia el trayecto del coche en una hora determinada. Muestra información de la acción.
 avanzar(int metros): Desplaza el coche en una cantidad de metros indicada, actualiza el espacio recorrido y la hora actual. Muestra información de la acción.
 parar():  Detiene el coche. Actualiza la hora de parada. Muestra información de la acción.
+
 2.4. Uso
 Uso de la clase Coche
 Para utilizar la clase Coche, primero debe instanciar un objeto pasando los argumentos adecuados al constructor. 
 Coche miCoche = new Coche(
 
 2.5. Contribuir
-6.	Fork it!
-7.	Crea tu feature branch: git checkout -b my-new-feature
-8.	Haz Commit de tus cambios: git commit -am 'Add some feature'
-9.	Push al branch: git push origin my-new-feature
-10.	Submit un pull request
+  6.	Fork it!
+  7.	Crea tu feature branch: git checkout -b my-new-feature
+  8.	Haz Commit de tus cambios: git commit -am 'Add some feature'
+  9.	Push al branch: git push origin my-new-feature
+  10.	Submit un pull request
 2.6. Historia
 •	Version 1.1 (2024-12-10) - lanzamiento inicial
 2.7. Créditos y atribuciones
