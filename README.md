@@ -1,11 +1,14 @@
 # Curso Java: Prueba
 1. Clase Vehiculo
+   
 Vehiculo
 Define la clase Vehiculo.
+
 1.1.	Instalación
 
 1.2. Descripción
-La clase Vehiculo representa un Vehiculo y es una clase abstracta de la que heredan distintos vehículos que tendrán la información sobre la matrícula, la marca, el modelo, el color, el espacio recorrido, la hora de inicio de un viaje y la hora actual. 
+La clase Vehiculo representa un Vehiculo y es una clase abstracta de la que heredan distintos vehículos que tendrán la información sobre la matrícula, la marca, el modelo, el color, el espacio recorrido, la hora de inicio de un viaje y la hora actual.
+
 1.3. Funcionalidades
 La clase Vehiculo tiene las siguientes funcionalidades:
 Constructor: Crea una instancia de Vehiculo con una matrícula, marca, modelo, y color.
@@ -45,7 +48,7 @@ Copyright (c) 2015
 2. Clase Coche
    
 Coche
-Define la clase Vehiculo.
+Define la clase Coche.
 
 2.1 Instalación
 
