@@ -158,7 +158,7 @@ Uso de la clase Camión
 
 Para utilizar la clase Camion, primero debe instanciar un objeto pasando los argumentos adecuados al constructor. 
 
-Camión miCamion = new Camion("1234ABC", "Iveco", "Cross", "Blanco");
+Camion miCamion = new Camion("1234ABC", "Iveco", "Cross", "Blanco");
 
 miCamion.arrancar();
 
