@@ -84,8 +84,16 @@ parar():  Detiene el coche. Actualiza la hora de parada. Muestra información de
 2.4. Uso
 
 Uso de la clase Coche
+
 Para utilizar la clase Coche, primero debe instanciar un objeto pasando los argumentos adecuados al constructor. 
-Coche miCoche = new Coche(
+
+Coche miCoche = new Coche("1234ABC", "Opel", "Corsa", "Rojo");
+
+miCoche.arrancar();
+
+miCoche.avanzar(5);
+
+miCoche.parar();
 
 2.5. Contribuir
 
