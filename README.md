@@ -31,22 +31,29 @@ Para utilizar la clase Vehiculo, primero debe instanciar un objeto pasando los a
   3.	Haz Commit de tus cambios: git commit -am 'Add some feature'
   4.	Push al branch: git push origin my-new-feature
   5.	Submit un pull request
+
 1.6. Historia
 •	Version 1.1 (2024-12-10) - lanzamiento inicial
+
 1.7. Créditos y atribuciones
 Developer – Sergio Castro
+
 1.8. License
 The MIT License (MIT)
 Copyright (c) 2015 
 
 2. Clase Coche
+   
 Coche
 Define la clase Vehiculo.
+
 2.1 Instalación
 
 2.2. Descripción
 La clase Coche representa un Coche y hereda de la clase Vehiculo. Implementa la interfaz Conducible. Adicionalmente posee un número de ruedas, que es un valor constante.
+
 2.3. Funcionalidades
+
 La clase Coche tiene las siguientes funcionalidades:
 Constructor: Crea una instancia de Coche con una matrícula, marca, modelo, y color.
 getNumeroRuedas (): Devuelve las ruedas que tiene el vehículo.
@@ -55,20 +62,28 @@ avanzar(int metros): Desplaza el coche en una cantidad de metros indicada, actua
 parar():  Detiene el coche. Actualiza la hora de parada. Muestra información de la acción.
 
 2.4. Uso
+
 Uso de la clase Coche
 Para utilizar la clase Coche, primero debe instanciar un objeto pasando los argumentos adecuados al constructor. 
 Coche miCoche = new Coche(
 
 2.5. Contribuir
-  6.	Fork it!
-  7.	Crea tu feature branch: git checkout -b my-new-feature
-  8.	Haz Commit de tus cambios: git commit -am 'Add some feature'
-  9.	Push al branch: git push origin my-new-feature
-  10.	Submit un pull request
+
+  1.	Fork it!
+  2.	Crea tu feature branch: git checkout -b my-new-feature
+  3.	Haz Commit de tus cambios: git commit -am 'Add some feature'
+  4.	Push al branch: git push origin my-new-feature
+  5.	Submit un pull request
+      
 2.6. Historia
+
 •	Version 1.1 (2024-12-10) - lanzamiento inicial
+
 2.7. Créditos y atribuciones
+
 Developer – Sergio Castro
+
 2.8. License
+
 The MIT License (MIT)
 Copyright (c) 2015
